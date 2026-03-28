@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gerson Torrado 👋
 
-Estudiante de **Ingeniería de Sistemas** apasionado por la **Ciberseguridad** y el **Desarrollo Backend**. Actualmente enfocado en fortalecer mis habilidades en auditoría de redes, hacking ético y arquitectura de software robusta.
+Soy estudiante de 7mo semestre de Ingeniería de Sistemas, con un fuerte interés en el Desarrollo Backend y la Ciberseguridad. Más allá de aprender a usar herramientas, mi enfoque está en entender cómo funcionan las cosas por debajo: desde la lógica de los protocolos de red hasta la arquitectura del código. Actualmente desarrollo proyectos académicos y personales utilizando Java y Python (FastAPI), buscando siempre aplicar buenas prácticas. Me considero una persona curiosa y analítica, con el objetivo de consolidar bases técnicas fuertes que me permitan construir (y proteger) aplicaciones eficientes para el mundo real.
 
 # 💫 About Me:
 - 🔭 Actualmente estudiante de Ingenieria de Sistema en Corporación Unificada Nacional de Educación Superior (Cursando 7mo semestre)<br>- 🔐 Intereses: Pentesting, Ciberseguridad (Kali Linux, Nmap, Metasploit) y Redes.<br>- 🐍 Backend: Basico en **Python** con **FastAPI** y **Java**.<br>- 🌍 Idiomas: Español (Nativo), Inglés (A1 - En aprendizaje)<br>- 📍 Ubicación: Bogotá, Colombia.
@@ -14,12 +14,12 @@ Estudiante de **Ingeniería de Sistemas** apasionado por la **Ciberseguridad** y
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliutto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eliutto&icon=0&color=0)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=Eliutto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 📈 Mis Proyectos Destacados
-* **[LingoNod](https://github.com/Eliutto/LingoNod):** Aplicación de traducción y asistencia multilingüe usando Azure Cognitive Services y FastAPI.
+* **[LingoNod](https://github.com/Eliutto/LingoNod-MVP):** Aplicación de traducción y asistencia multilingüe usando Azure Cognitive Services y FastAPI.
 * **[BarberiaCjev4](https://github.com/Eliutto/BarberiaCjev4):** Sistema de escritorio para gestión administrativa de servicios.
 
 ---
