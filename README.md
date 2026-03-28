@@ -18,7 +18,7 @@ Soy estudiante de 7mo semestre de Ingeniería de Sistemas, con un fuerte interé
 * **[LingoNod](https://github.com/Eliutto/LingoNod-MVP):** Aplicación de traducción y asistencia multilingüe usando Azure Cognitive Services y FastAPI.
 * **[BarberiaCjev4](https://github.com/Eliutto/BarberiaCjev4):** Sistema de escritorio para gestión administrativa de servicios.
 
-Contactame
-[Linkedin](https://www.linkedin.com/in/gerson-torrado-12b6993ba/?skipRedirect=true)
+# Contactame
+*[Linkedin](https://www.linkedin.com/in/gerson-torrado-12b6993ba/?skipRedirect=true)
 ---
 *"El aprendizaje es el único proceso que nunca termina."*
