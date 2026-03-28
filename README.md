@@ -3,7 +3,7 @@
 Soy estudiante de 7mo semestre de Ingeniería de Sistemas, con un fuerte interés en el Desarrollo Backend y la Ciberseguridad. Más allá de aprender a usar herramientas, mi enfoque está en entender cómo funcionan las cosas por debajo: desde la lógica de los protocolos de red hasta la arquitectura del código. Actualmente desarrollo proyectos académicos y personales utilizando Java y Python (FastAPI), buscando siempre aplicar buenas prácticas. Me considero una persona curiosa y analítica, con el objetivo de consolidar bases técnicas fuertes que me permitan construir (y proteger) aplicaciones eficientes para el mundo real.
 
 #  Acerca de mi:
--  Actualmente estudiante de Ingenieria de Sistema en Corporación Unificada Nacional de Educación Superior (Cursando 7mo semestre)<br>-  Intereses: Pentesting, Ciberseguridad (Kali Linux, Nmap, Metasploit) y Redes.<br>-  Backend: Basico en **Python** con **FastAPI** y **Java**.<br>-  Idiomas: Español (Nativo), Inglés (A1 - En aprendizaje)<br>-  Ubicación: Bogotá, Colombia.
+-  Actualmente estudiante de Ingenieria de Sistema en Corporación Unificada Nacional de Educación Superior (Cursando 7mo semestre)<br>-  Intereses: Pentesting, Ciberseguridad (Kali Linux, Nmap, Metasploit) y Redes.<br>-  Backend: Basico en **Python** con **FastAPI** y **Java**.<br>-  Idiomas: Español (Nativo), Inglés (A1 - En aprendizaje).<br>- 
 
 
 #  Tecnologías:
